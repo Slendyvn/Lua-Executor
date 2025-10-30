@@ -23,7 +23,7 @@
 - copy all of the thing in the file
 - go back to Lua Executor -> bin -> Debug -> net 8.0-windows
 - then paste the things you just copied -> press replace
-- ur done now enjoy exploiting stuff
+- ur done now enjoy doing stuff
 
 # Some information
 **This is a keyless executor with simple ui, suitable for exploiting if ur computer is weak**
