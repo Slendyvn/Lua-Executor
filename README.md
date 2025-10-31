@@ -15,7 +15,7 @@
 - using Xeno Api (83 Unc)
 - Setting (change your GUI opacity, roblox's character walkspeed,jumppower,Stalk,Tp)
 - Logs to track what script you used
-- built in scripts, why search when theres already script?
+- built in scripts, why search when theres a quick script tab that already have scripts?
 - Highlight Lua Commands
 - and finally open source and you can edit it with visual studio 2022
 
