@@ -10,6 +10,7 @@
 - this Executor is discontinued however its still works and functionable
 - you will be able to download this and edit the executor soon
 - the project is already done 95% just not the multi api tab
+- you can use this to make vids on executors
 
 # Featured
 - using Xeno Api (83 Unc)
@@ -64,9 +65,7 @@ Discord: @amicusrblx
 
 **Executor + The file to edit(please give credit if you use it)**
 
-coming soon
-
-
+[Download the Edit version](https://files.catbox.moe/fpn4w3.zip)
 
 *i hope somebody will add scriptblox api stuff and multi api lol it will be very impressive to see XD*
 
