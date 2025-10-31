@@ -64,7 +64,6 @@ Discord: @amicusrblx
 [Only Executor](https://files.catbox.moe/cfr6v5.zip)
 
 **Executor + The file to edit(please give credit if you use it)**
-
 [Download the Edit version](https://files.catbox.moe/fpn4w3.zip)
 
 *i hope somebody will add scriptblox api stuff and multi api lol it will be very impressive to see XD*
