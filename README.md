@@ -1,4 +1,4 @@
-# Lua-Executor
+# Lua-Executor-Original
 ## INTRODUCING LUA EXECUTOR / READ THIS FIRST PLEASE / THE DOWNLOAD IS AT THE END
   <img width="585" height="567" alt="Screenshot 2025-10-30 211603" src="https://github.com/user-attachments/assets/54d2154d-9cc9-461b-871b-e87cd9d639a3" />
 
