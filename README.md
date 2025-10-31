@@ -17,7 +17,10 @@
 - Logs to track what script you used
 - built in scripts, why search when theres a quick script tab that already have scripts?
 - Highlight Lua Commands
+- Clean and simple UI
 - and finally open source and you can edit it with visual studio 2022
+
+
 
 # If your executor not working
 
