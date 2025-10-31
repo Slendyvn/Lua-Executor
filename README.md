@@ -6,7 +6,7 @@
 ## TURN OFF YOUR REAL TIME PROTECTION BEFORE INSTALLING
 ## where to download? read the readme first brochacho
 # Lua-Executor
-- this is the source yea, -
+- this is the source yea, 
 - this Executor is discontinued however its still works and functionable 
 - the project is already done 95% just not the multi api tab
 
@@ -35,7 +35,7 @@
 
 # Important stuff
 **It will create a new .txt file everytime you inject**
-- .txt files cant harm your computer , everytime you inject it will create a .txt file / it use to identity what script do you use and stuff
+- .txt files cant harm your computer , everytime you inject it will create a .txt file / it use to identify what script do you use and stuff (most of the time its useless so i reccommened you deleting it if you want)
 - ofc you can delete it, just go to the logs foler in net8.0 folder
 - you can reinstall the executor like normal but heres some extra steps to save some data
 1. window + R -> appdata
@@ -49,4 +49,7 @@ Discord: @amicusrblx
 # DOWNLOAD
 **pressing this button will immediately download it**
 [DOWNLOAD HERE](https://files.catbox.moe/cfr6v5.zip)
+
+**if you want to edit it, heres the sln(please give credit if you use it)**
+coming soon
 
