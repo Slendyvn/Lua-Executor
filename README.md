@@ -11,6 +11,14 @@
 - you will be able to download this and edit the executor soon
 - the project is already done 95% just not the multi api tab
 
+# Featured
+- using Xeno Api (83 Unc)
+- Setting (change your GUI opacity, roblox's character walkspeed,jumppower,Stalk,Tp)
+- Logs to track what script you used
+- built in scripts, why search when theres already script?
+- Highlight Lua Commands
+- and finally open source and you can edit it with visual studio 2022
+
 # If your executor not working
 
 
