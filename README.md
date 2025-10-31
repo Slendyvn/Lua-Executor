@@ -49,8 +49,9 @@ Discord: @amicusrblx
 
 # DOWNLOAD
 **pressing this button will immediately download it**
-[DOWNLOAD HERE](https://files.catbox.moe/cfr6v5.zip)
+[Only Executor](https://files.catbox.moe/cfr6v5.zip)
 
-**if you want to edit it, heres the sln(please give credit if you use it)**
+**Executor + The file to edit(please give credit if you use it)**
 coming soon
+*i hope somebody will add scriptblox api stuff and multi api lol it will be very impressive to see XD*
 
