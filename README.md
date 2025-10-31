@@ -4,7 +4,7 @@
 
 
 ## TURN OFF YOUR REAL TIME PROTECTION BEFORE INSTALLING
-## where to download? read the readme first brochacho
+
 # Lua-Executor
 - this is the source
 - this Executor is discontinued however its still works and functionable
