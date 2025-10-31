@@ -6,8 +6,9 @@
 ## TURN OFF YOUR REAL TIME PROTECTION BEFORE INSTALLING
 ## where to download? read the readme first brochacho
 # Lua-Executor
-- this is the source yea, 
-- this Executor is discontinued however its still works and functionable 
+- this is the source
+- this Executor is discontinued however its still works and functionable
+- you will be able to download this and edit the executor soon
 - the project is already done 95% just not the multi api tab
 
 # If your executor not working
